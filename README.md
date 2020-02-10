@@ -7,8 +7,12 @@
 ![list of task](https://user-images.githubusercontent.com/54942448/74101972-614d1880-4b54-11ea-8d9a-ff4a59996430.PNG)
 
 This is a task manager app. you can login-sign up and Login is available as Administrator. َAdmin can see all user and their task and password.
+
 In this app I use GreenDao as data base. All information of user and task save on the database. 
+
 I've used singletone design pattern for repository.
+
 You can add your task and choose todo, doing and done state for your task also you can choose date and time for your task.
 you can edit the task by click on it and also add photo for it or delete it. Also you can share the task. In this project I've used implicit intent for take photo and share the task.
+
 In summary I've used singletone, Factory, builder, DAO, repository design patterns also I've used recycler view, view pagr, tablayout, material design, float action botton and dialog in this app.
