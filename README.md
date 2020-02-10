@@ -6,7 +6,7 @@
 ![Edit task](https://user-images.githubusercontent.com/54942448/74101968-50040c00-4b54-11ea-88c3-24880fc5f1cd.PNG) 
 ![list of task](https://user-images.githubusercontent.com/54942448/74101972-614d1880-4b54-11ea-8d9a-ff4a59996430.PNG)
 
-This is a task manager app. you can login-sign up and Login is available as Administrator. َAdmin can see all user and their task and password.
+This is a task manager app. you can login-sign up and Login is available as Administrator. َAdmin can see all user and their tasks and password.
 
 In this app I use GreenDao as data base. All information of user and task save on the database. 
 
